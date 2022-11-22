@@ -1,0 +1,22 @@
+{
+  "name": "bootcamp-cypress",
+  "version": "1.0.0",
+  "description": "Projeto de estudos de automacao em Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acalmeidarm/bootcamp-cypress.git"
+  },
+  "author": "Ana Carolina Ribeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acalmeidarm/bootcamp-cypress/issues"
+  },
+  "homepage": "https://github.com/acalmeidarm/bootcamp-cypress#readme",
+  "devDependencies": {
+    "cypress": "^11.1.0"
+  }
+}
