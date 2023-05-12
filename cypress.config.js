@@ -10,7 +10,7 @@ module.exports = defineConfig({
     },
     env: {
       allure: true,
-      //allureAddVideoOnPass: true
+      allureAddVideoOnPass: true
     },
     baseUrl: 'https://buger-eats.vercel.app/',
     viewportWidth: 1920,
