@@ -8,6 +8,10 @@ module.exports = defineConfig({
       return config
       // implement node event listeners here
     },
+    env: {
+      allure: true,
+      //allureAddVideoOnPass: true
+    },
     baseUrl: 'https://buger-eats.vercel.app/',
     viewportWidth: 1920,
     viewportHeight: 1080
