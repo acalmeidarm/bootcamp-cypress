@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri May 12 19:58:20 GMT 2023","Fri May 12 19:58:21 GMT 2023","918","","Validar cadastro","","","","Acessar página principal",""
+"passed","Fri May 12 19:58:04 GMT 2023","Fri May 12 19:58:08 GMT 2023","3734","","","","","","Realiza cadastro com sucesso",""
+"passed","Fri May 12 19:57:55 GMT 2023","Fri May 12 19:58:01 GMT 2023","5875","","","","","","Realizar cadastro com CPF inválido",""
+"passed","Fri May 12 19:58:01 GMT 2023","Fri May 12 19:58:04 GMT 2023","3456","","","","","","Não envia dados da CNH",""
