@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/acalmeidarm/bootcamp-cypress#readme",
   "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.39.1",
+    "allure-commandline": "^2.22.0",
     "cypress": "^11.1.0"
   }
 }
