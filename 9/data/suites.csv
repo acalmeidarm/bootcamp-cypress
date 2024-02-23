@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 23 11:34:38 GMT 2024","Fri Feb 23 11:34:41 GMT 2024","2678","","","","","","Realiza cadastro com sucesso",""
+"passed","Fri Feb 23 11:34:35 GMT 2024","Fri Feb 23 11:34:38 GMT 2024","2734","","","","","","Não envia dados da CNH",""
+"passed","Fri Feb 23 11:34:31 GMT 2024","Fri Feb 23 11:34:35 GMT 2024","4288","","","","","","Realizar cadastro com CPF inválido",""
+"passed","Fri Feb 23 11:34:45 GMT 2024","Fri Feb 23 11:34:45 GMT 2024","389","","Validar cadastro","","","","Acessar página principal",""
